@@ -1,5 +1,4 @@
-## The two functions below computes and caches the inverse of a matrix to 
-## reduce time consumption in repeated computation of same inverse.
+## The two functions below computes and caches the inverse of a matrix to reduce time consumption in repeated computation of same inverse.
 
 ## The function makeCacheMatrix() caches the matrix and its inverse which can be fetched for later use.
 # In short, makeCacheMatrix() returns a list of functions to
